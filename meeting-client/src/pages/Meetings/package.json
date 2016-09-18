@@ -1,0 +1,6 @@
+{
+  "name": "Meetings",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./Meetings.js"
+}

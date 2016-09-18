@@ -1,0 +1,36 @@
+#=====CLIENT APP IGNORES=====
+
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+meeting-client/node_modules
+
+# testing
+meeting-client/coverage
+
+# production
+meeting-client/build
+
+# misc
+meeting-client/.DS_Store
+meeting-client/npm-debug.log
+
+
+#=====SERVER APP IGNORES=====
+
+# Eclipse
+meeting-server/.classpath
+meeting-server/.project
+meeting-server/.settings/
+
+# Intellij
+meeting-server/.idea/
+meeting-server/*.iml
+meeting-server/*.iws
+
+# Mac
+meeting-server/.DS_Store
+
+# Maven
+meeting-server/log/
+meeting-server/target/
